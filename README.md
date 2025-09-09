@@ -1,4 +1,4 @@
-## <font color="#36BCF7">¡Hola, soy Celeste!</font>
+## ¡Hola, soy Celeste!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Delivery+Manager+and+Product+Designer+;AI+Projects)](https://git.io/typing-svg)
 
@@ -11,7 +11,8 @@
 - 🍀 Tengo la fortuna de ver los problemas como un reto con un mundo infinito de soluciones.
   
 </br>
-<p align="center", font color="#36BCF7"> Si imaginamos que el desarrollo es el precioso mecanismo  de un reloj y que el diseño es el tiempo inasible que, al fluir a través de los engranajes, le otorga sentido. Notaríamos que sin el tiempo, el reloj es un artefacto inútil; sin el mecanismo, el tiempo es una eternidad sin medida. Y no hablo de relojes, ni del tiempo 💭 </p>
+<p align="center"> Si imaginamos que el desarrollo es el preciso mecanismo de un reloj y que el diseño es el tiempo inasible que, al fluir a través de los engranajes, le otorga sentido. Notaríamos que sin el tiempo, el reloj es un artefacto inútil; sin el mecanismo, el tiempo es una eternidad sin medida. Y no hablo de relojes, ni del tiempo 💭 </p>
+
 
 ## Tecnologías
 <p align="center">
